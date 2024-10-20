@@ -1,11 +1,11 @@
-# What is Pulseeffects-music-EQ?
-Pulseeffects-music-EQ is a music-based preset for pulseeffect.
+# What is EasyEffects-Pulseeffects-EQ?
+EasyEffects-Pulseeffects-EQ is a music-based preset for pulseeffect & EasyEffects.
 
 # Installation
-1. Install Pulseeffects.
+1. Install.
 2. Run this command:
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/herobrine30396/Pulseeffects-music-EQ/main/install.sh)"
+bash <(curl -s https://raw.githubusercontent.com/arvindchauhan1/EasyEffects-Pulseeffects-EQ/main/install.sh)
 ```
 3. Done! Now you can listen to your music with crisp sound and good bass
 
@@ -21,4 +21,4 @@ You can change the convolver files to match your experience
 The files will be updated
 
 # Acknowledgement
-Made by Herobrine30396, Impulse files by JackHack96
+Made by arvindchauhan1 forked from Herobrine30396, Impulse files by JackHack96
